@@ -1,0 +1,49 @@
+.login-box {
+    width: 860px;
+    padding:0;
+    margin:0;
+}
+
+.login-box tr td {
+    font-family: 'Trebuchet MS', Helvetica, Helvetica Neue, Arial, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	color: #FFFFFF;
+    text-align: justify;
+}
+
+.logotipo-box {
+	width: 900px;
+	height: 100px;
+	margin: 0;
+	padding: 0;
+	background-image: url(../images/logotipo.png);
+    background-color: #FFFFFF;
+    text-align:left;
+}
+
+.login-input-box {
+	font-size: 11px;
+	width: 100px;
+	color: #FFFFFF;
+	padding: 3px;
+	height: 20px;
+	float: left;
+	border: 0;
+	overflow: auto;
+	font-family: Arial, Helvetica, sans-serif;
+	background-color: #B9D40F;
+	margin: 0;
+	border: 1px solid #F8F8F8;
+}
+
+.login-input-button {
+	font-size: 12px;
+	font-weight: bold;
+	width: 80px;
+	color: #FFFFFF;
+	height: 20px;
+	font-family: Arial, Helvetica, sans-serif;
+	background-color: #B9D40F;
+	border: 1px solid #F8F8F8;
+}
